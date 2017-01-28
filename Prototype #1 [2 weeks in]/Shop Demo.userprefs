@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BuyButtonScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BuyButtonScript.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StoreItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopItemData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopInventory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InventoryTooltip.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StoreMenuScript.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/ItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InventoryItemData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopSlot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

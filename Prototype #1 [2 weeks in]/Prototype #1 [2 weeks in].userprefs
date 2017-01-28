@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shop Scripts/StoreItemDatabase.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Inventory Scripts/ItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shop Scripts/ShopItemData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shop Scripts/StoreItemDatabase.cs" Line="13" Column="102" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,91 @@
+[
+	{
+		"id": 0,
+		"title": "Decent Sword",
+		"value": 6,
+		"stats": {
+			"power": 1,
+			"defense": 0,
+			"vitality": 2
+		},
+		"description": "A sword sufficient for fighting most enemies, but not all.",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "decent_sword"
+	},
+
+	{
+		"id": 1,
+		"title": "Great Shield",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 12,
+			"vitality": 3
+		},
+		"description": "A shield of legend.",
+		"stackable": false,
+		"rarity": 3,
+		"slug": "great_shield"
+	},
+
+	{
+		"id": 2,
+		"title": "Axe",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 12,
+			"vitality": 3
+		},
+		"description": "A classic axe.",
+		"stackable": false,
+		"rarity": 3,
+		"slug": "axe"
+	},
+
+	{
+		"id": 3,
+		"title": "Explorer Bag",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 12,
+			"vitality": 3
+		},
+		"description": "Prototypical rucksack.",
+		"stackable": false,
+		"rarity": 3,
+		"slug": "bag"
+	},
+
+	{
+		"id": 4,
+		"title": "NATURE MAGIC VOL. I",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 12,
+			"vitality": 3
+		},
+		"description": "A book of magic. Can be used to learn Advanced spells.",
+		"stackable": true,
+		"rarity": 3,
+		"slug": "book"
+	},
+
+	{
+		"id": 5,
+		"title": "Standard Magic Gem",
+		"value": 10,
+		"stats": {
+			"power": 0,
+			"defense": 12,
+			"vitality": 3
+		},
+		"description": "A gem that looks like it could fit in your staff.",
+		"stackable": true,
+		"rarity": 3,
+		"slug": "gem"
+	}
+]
