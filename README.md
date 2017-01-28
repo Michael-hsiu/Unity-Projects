@@ -7,4 +7,6 @@ Current features:
 - Inventory
 - Shop
 - Player movement
+- Health bar
+- Health pickups
 - Basic melee combat
